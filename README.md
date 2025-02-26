@@ -5,7 +5,7 @@ Allows iterating multiple files, executing a script on each file, and optionally
 ## Installation
 On Windows, this goes in your `My Documents\maya\scripts\` folder
 
-Create a folder named FloatingShelf and clone this repo into it, or download the repo and extract the files into it.
+Create a folder named BatchScriptExecution and clone this repo into it, or download the repo and extract the files into it.
 
 ## Running the Script
 Run this from the Maya script editor, or add it to a shelf as a python command, or a hotkey:
